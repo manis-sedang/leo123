@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle daftar-slot-online-deposit-via-dana-5000-terpercaya",
+        "command": "daftar-slot-online-deposit-via-dana-5000-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "daftar-slot-online-deposit-via-dana-5000-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "daftar-slot-online-deposit-via-dana-5000-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
